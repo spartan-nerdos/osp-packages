@@ -9,7 +9,7 @@
                 "author": "Max Bai",
                 "description": "Extra games for NerdOS.",
                 "link": "https://github.com/spartan-nerdos/extra-games",
-                "script": "https://raw.githubusercontent.com/spartan-nerdos/extra-games/main/install.sh",
+                "script": "https://raw.githubusercontent.com/spartan-nerdos/osp-packages/main/extras/extra-games/install.sh",
                 "files": [
                     "kernel/games/"
                 ]
