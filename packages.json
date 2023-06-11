@@ -1,0 +1,22 @@
+{
+    "packages": {
+        "extras": {
+            "extra-games": {
+                "version": "0.0.1",
+                "author": "Max Bai",
+                "description": "Extra games for NerdOS.",
+                "link": "https://github.com/spartan-nerdos/extra-games",
+                "script": "https://raw.githubusercontent.com/spartan-nerdos/extra-games/main/install.sh",
+                "files": [
+                    "kernel/games/"
+                ]
+            }
+        },
+        "experiments": {
+
+        },
+        "community": {
+
+        }
+    }
+}
