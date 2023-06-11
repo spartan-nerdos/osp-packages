@@ -2,6 +2,9 @@
     "packages": {
         "extras": {
             "extra-games": {
+                "name": "extra-games",
+                "num": 0,
+                "identifier": "extras/extra-games",
                 "version": "0.0.1",
                 "author": "Max Bai",
                 "description": "Extra games for NerdOS.",
