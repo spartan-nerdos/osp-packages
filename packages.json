@@ -1,8 +1,8 @@
 {
     "packages": {
         "extras": {
-            "extras/extra-games": {
-                "name": "extra-games",
+            "extra-games": {
+                "fullName": "extras/extra-games",
                 "id": 0,
                 "version": "0.0.1",
                 "author": "Max Bai",
