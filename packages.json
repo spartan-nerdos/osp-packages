@@ -1,7 +1,8 @@
 {
     "spk": {
         "latest-version": "0.0.1",
-        "link-to-code": "https://github.com/spartanproj/Spk/archive/refs/heads/main.zip"
+        "link-to-script": "https://raw.githubusercontent.com/spartanproj/Spk/main/src/install.sh",
+        "link-to-files": "https://github.com/spartanproj/Spk/archive/refs/heads/main.zip"
     },
     "packages": {
         "extras": {
