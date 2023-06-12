@@ -1,2 +1,2 @@
-# osp-packages
-Packages repository to host all packages for OSP.
+# spk-packages
+Packages repository to host all packages for spk.
