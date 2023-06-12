@@ -1,4 +1,8 @@
 {
+    "spk": {
+        "latest-version": "0.0.1",
+        "link-to-code": "https://github.com/spartanproj/Spk/archive/refs/heads/main.zip"
+    },
     "packages": {
         "extras": {
             "extra-games": {
