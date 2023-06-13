@@ -35,7 +35,7 @@
                 "author": "thisiscoding1234",
                 "description": "A H2G2 inspired game.",
                 "link": "https://github.com/spartanproj/marvin-adventures",
-                "script": "https://raw.githubusercontent.com/spartanproj/marvin-adventures/main/extras/extra-games/install.sh",
+                "script": "https://raw.githubusercontent.com/spartanproj/marvin-adventures/main/install.sh",
                 "files": [
                     "kernel/games/"
                 ]
