@@ -1,4 +1,9 @@
 {
+    "osp": {
+        "latest-version": "0.0.1",
+        "link-to-script": "https://raw.githubusercontent.com/spartanproj/OSP/main/src/install.sh",
+        "link-to-files": "https://github.com/spartanproj/OSP/archive/refs/heads/main.zip"
+    },
     "shipments": {
         "extras": {
             "extra-games": {
