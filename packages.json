@@ -37,9 +37,9 @@
                 "link": "https://github.com/spartanproj/marvin-adventures",
                 "exe": {
                     "name": "marvin",
-                    "files": [
-                        "kernel/packages/marvin-adventures.c"
-                    ]
+                    "files": {
+                        "kernel/packages/marvin-adventures.h": ""
+                    }
                 }
             }
         },
