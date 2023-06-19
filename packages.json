@@ -38,7 +38,7 @@
                 "exe": {
                     "name": "marvin",
                     "files": {
-                        "kernel/packages/marvin-adventures.h": ""
+                        "kernel/packages/marvin-adventures.h": "https://raw.githubusercontent.com/uimaxbai/marvin-adventures/patch-1/marvin-adventures.h"
                     }
                 }
             }
