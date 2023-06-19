@@ -13,6 +13,7 @@
                 "author": "Max Bai",
                 "description": "Extra games for NerdOS. Includes: Marvin's Adventures",
                 "link": "https://github.com/spartan-nerdos/extra-games",
+                "script": "https://raw.githubusercontent.com/spartanproj/spk-packages/main/extras/extra-games/install.sh",
                 "files": [
                     "kernel/games/"
                 ]
@@ -34,12 +35,10 @@
                 "author": "thisiscoding1234",
                 "description": "A H2G2 inspired game.",
                 "link": "https://github.com/spartanproj/marvin-adventures",
-                "exe": {
-                    "name": "marvin",
-                    "files": [
-                        
-                    ]
-                }
+                "script": "https://raw.githubusercontent.com/spartanproj/marvin-adventures/main/extras/extra-games/install.sh",
+                "files": [
+                    "kernel/games/"
+                ]
             }
         },
         "experiments": {
