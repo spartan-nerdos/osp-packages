@@ -38,9 +38,10 @@
                 "exe": {
                     "name": "marvin",
                     "files": [
-                        
+                        "kernel/packages/marvin-adventures.c"
                     ]
                 }
+            }
         },
         "experiments": {
 
